@@ -31,7 +31,7 @@ aka `Video Kompany`, `VlaDOS1408`, `Spy`, etc.
 2. [Добавил новые рецепты крафта, добавил кожу и возможность рвать плащи на кожу](https://github.com/Vault-Overseers/nuclear-14/pull/520)
 
 #### Crystall Edge (fork)
-1. [Добавил 'arrow' в названия наконечн ков стрел по запросу](https://github.com/crystallpunk-14/crystall-punk-14/pull/964)
+1. [Добавил 'arrow' в названия наконечников стрел (по запросу)](https://github.com/crystallpunk-14/crystall-punk-14/pull/964)
 
 
 <!---
