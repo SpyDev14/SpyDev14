@@ -14,10 +14,6 @@ aka `Video Kompany`, `VlaDOS1408`, `Spy`, etc.
 Я бы их тут расписал, но вы можете просто посмотреть на них в репозитории. В основном, я занимался этим в качестве хобби.
 
 ## Мои PR-ы
-#### Nuclear 14 (fork)
-1. [Подправил локализацию](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (fork)
-2. [Добавил новые рецепты крафта, добавил кожу и возможность рвать плащи на кожу](https://github.com/Vault-Overseers/nuclear-14/pull/520)
-
 #### Space Station 14
 - Ps: Всё, что здесь указано, было принято либо сразу, либе через переоткрытие.
 - PPs: Большую часть закрыли из-за некоторой ошибки в работе администрации, а не из-за того, что с ними что-то не так. Сейчас большая часть переоткрыта кем-то из сообщества по моему согласию.
@@ -29,6 +25,14 @@ aka `Video Kompany`, `VlaDOS1408`, `Spy`, etc.
 1. [Реворк и улучшение меню консоли заказов](https://github.com/space-wizards/space-station-14/pull/33650)
 2. [Улучшение меню факса](https://github.com/space-wizards/space-station-14/pull/33653)
 3. [Улучшение работы с изменением размера меню объекта с зарядом](https://github.com/space-wizards/space-station-14/pull/33656)
+
+#### Nuclear 14 (fork)
+1. [Подправил локализацию](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (fork)
+2. [Добавил новые рецепты крафта, добавил кожу и возможность рвать плащи на кожу](https://github.com/Vault-Overseers/nuclear-14/pull/520)
+
+#### Crystall Edge (fork)
+1. [Добавил 'arrow' в названия наконечн ков стрел по запросу](https://github.com/crystallpunk-14/crystall-punk-14/pull/964)
+
 
 <!---
 SpyDev14/SpyDev14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
