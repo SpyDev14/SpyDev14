@@ -1,4 +1,4 @@
-aka `Video Kompany`, `VlaDOS1408`, `Spy`, etc.
+aka `Video Kompany`, `SpyDev`, `Spy`, etc.
 
 
 # Обо мне
