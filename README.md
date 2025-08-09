@@ -13,26 +13,26 @@ aka `Video Kompany`, `SpyDev`, `Spy`, etc.
 
 # Контакты
 - Discrod: `spy.3082`
+- Телеграм: [@bViewVariables](https://web.telegram.org/k/#@bViewVariables)
 
 ## Мои работы
-Я бы их тут расписал, но вы можете просто посмотреть на них в репозитории. В основном я делал их в качестве хобби, так что многие проекты недоделанны.
+Я бы их тут расписал, но вы можете просто посмотреть на них в репозитории. В основном я делал их в качестве хобби, или из интереса (ConsoleGame), так что многие из них остались недоделанными.
 
 ## Мои PR-ы
 #### Space Station 14
-- Ps: Всё, что здесь указано, было принято либо сразу, либе через переоткрытие.
-- PPs: Большую часть закрыли из-за некоторой ошибки в работе администрации (хотя они скорее просто охренели, честное слово, проект в руках каких-то соевых полудурков, потому-что забанили в репе меня за вот [это](https://github.com/space-wizards/space-station-14/pull/32548#issuecomment-2513866317)), а не из-за того, что с ними что-то не так. Сейчас большая часть переоткрыта кем-то из сообщества по моему согласию.
-1. [Пофиксил UI-меню ускорителя частиц](https://github.com/space-wizards/space-station-14/pull/33652)
-2. [Фикс неправильной работы с изменением размера окна у консоли связи](https://github.com/space-wizards/space-station-14/pull/33655)
-3. [Небольшой фикс локализации](https://github.com/space-wizards/space-station-14/pull/33651)
-4. [Улучшение работы с изменением размера меню объекта с зарядом](https://github.com/space-wizards/space-station-14/pull/33656)
+1. [Улучшение UI меню факса](https://github.com/space-wizards/space-station-14/pull/33825)
+2. [Пофиксил UI-меню ускорителя частиц](https://github.com/space-wizards/space-station-14/pull/34037)
+3. [Фикс неправильной работы с изменением размера окна у консоли связи](https://github.com/space-wizards/space-station-14/pull/33655)
+4. [Небольшой фикс локализации](https://github.com/space-wizards/space-station-14/pull/33651)
+5. [Улучшение работы с изменением размера меню объекта с зарядом](https://github.com/space-wizards/space-station-14/pull/34037)
+- Ps: Некоторые PR-ы были переоткрыты людьми из сообщества по моему согласию, т.к мои не успели рассмотреть и закрыли из-за особых обстоятельств, в которых я был виноват лишь частично.
 
 - ##### Ещё не принятые PR-ы
-1. [Реворк и улучшение меню консоли заказов](https://github.com/space-wizards/space-station-14/pull/33650)
-2. [Улучшение меню факса](https://github.com/space-wizards/space-station-14/pull/33653)
+1. [Реворк и улучшение меню консоли заказов](https://github.com/space-wizards/space-station-14/pull/34052)
 
-#### Nuclear 14 (fork)
+#### Nuclear 14
 1. [Подправил локализацию](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (fork)
-2. [Добавил новые рецепты крафта, добавил кожу и возможность рвать плащи на кожу](https://github.com/Vault-Overseers/nuclear-14/pull/520)
+2. [Добавил новые рецепты крафта (оружие, много одежды), добавил новый материал - дублёную кожу и способы её получения (включая возможность рвать кожанную одежду на кожу)](https://github.com/Vault-Overseers/nuclear-14/pull/520)
 
 #### Crystall Edge
 1. [Добавил 'arrow' в названия наконечников стрел (по запросу)](https://github.com/crystallpunk-14/crystall-punk-14/pull/964)
