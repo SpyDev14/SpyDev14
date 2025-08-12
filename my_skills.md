@@ -10,10 +10,10 @@
 - **ORM**:
 	- Django ORM
 - **Текстовые форматы данных**: (и где использовал)
-  - **JSON** (REST API, конфиги, сериализация/десериализация данных)
-  - **YAML** (прототипы Space Station 14 ([очень простой пример](https://docs.spacestation14.com/en/ss14-by-example/adding-a-simple-bikehorn.html#how-do-i-make-an-entity-and-give-it-components)))
-  - **TOML** (конфиги)
- 
+	- **JSON** (REST API, конфиги, сериализация/десериализация данных)
+	- **YAML** (прототипы Space Station 14 ([очень простой пример](https://docs.spacestation14.com/en/ss14-by-example/adding-a-simple-bikehorn.html#how-do-i-make-an-entity-and-give-it-components)))
+	- **TOML** (конфиги)
+
 ### Архитектура & Методологии
 - **Парадигмы**:
 	- Объектно-ориентированное Программирование (ООП) (Инкапсуляция, Наследование, Полиморфизм, Абстракция)
@@ -26,13 +26,16 @@
 - **Дизайн API**: REST API
 
 ### Технологии
-- **Вёрстка**: (базовый Front-end) 
-  - HTML (семантическая верстка)  
-  - CSS (базовые стили, flexbox, переменные)
-  - XAML (UI в Space Station 14 ([пример](https://docs.spacestation14.com/en/robust-toolbox/user-interface.html?highlight=UI#xaml-ui)); из экосистемы .NET)
-- Аутентификация/Авторизация на JWT-токенах
-- Асинхронное программирование Async / Await
-- WebSocket-ы
+- **Общие**:
+	- Асинхронное программирование Async / Await
+	- Регулярные выражения (regex; работа с текстом)
+- **Web-backend**:
+	- Аутентификация/Авторизация на JWT-токенах
+	- WebSocket-ы
+- **Web-frontend**: (вёрстка)
+	- HTML (django-темплейты, сообщения telegram бота)
+	- CSS (базовые стили, переменные)
+	- XAML (UI в Space Station 14 ([пример](https://docs.spacestation14.com/en/robust-toolbox/user-interface.html?highlight=UI#xaml-ui)); из экосистемы .NET)
 
 ### Инструменты разработки & Окружение
 - **Version Control**: GIT, [GitHub](https://github.com/SpyDev14)
