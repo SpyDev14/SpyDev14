@@ -55,7 +55,7 @@
 - **Python**: django-unittest, pytest
 
 ### Дополнительно
-- **Game Development**: Unity (начинающий)
+- **Game Development**: Unity (начинающий), Unity Events
 - **Open Source Contribution**: Принимал участие (когда было время) в разработке Space Station 14 ([Ru Corvax Wiki](https://station14.ru/wiki/Заглавная_страница), [Official site](https://spacestation14.com/))
 - **Languages**: Английский язык (A2, пред-пороговый уровень)
 
