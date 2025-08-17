@@ -1,6 +1,6 @@
 # Hard-skills (Technical Expertise)
 ### Языки программирования & Фреймворки
-- **Python**: Django, Django Rest Framework, FastAPI, Pydantic, TeleBOT (Telegram-боты)
+- **Python**: Django, Django Rest Framework, Pydantic, TeleBOT (Telegram-боты)
 - **C#**: .NET 8, WinForms
 
 ### Работа с данными & Базы данных
@@ -27,7 +27,6 @@
 
 ### Технологии
 - **Общие**:
-	- Асинхронное программирование Async / Await
 	- Регулярные выражения (regex; работа с текстом)
 - **Web-backend**:
 	- Аутентификация/Авторизация на JWT-токенах
