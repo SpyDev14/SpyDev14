@@ -1,5 +1,7 @@
 aka `Video Kompany`, `SpyDev`, `Spy`, etc.
 
+[Мои навыки ->](https://github.com/SpyDev14/SpyDev14/blob/main/my_skills.md)
+
 # Обо мне
 Привет! Меня зовут..., а в прочем и не важно. Мне 17 лет, я студент второго курса. В свободное время я увлекаюсь программированием и раньше занимался разработкой SS14 (сейчас уже не могу).
 
@@ -18,7 +20,6 @@ aka `Video Kompany`, `SpyDev`, `Spy`, etc.
   
 </details>
 
-[Мои навыки ->](https://github.com/SpyDev14/SpyDev14/blob/main/my_skills.md)
 
 ## Контакты
 - Discrod: `spy.3082`
