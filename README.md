@@ -20,7 +20,7 @@ aka `Video Kompany`, `SpyDev`, `Spy`, etc.
 
 [Мои навыки ->](https://github.com/SpyDev14/SpyDev14/blob/main/my_skills.md)
 
-# Контакты
+## Контакты
 - Discrod: `spy.3082`
 - Телеграм: [@bViewVariables](https://web.telegram.org/k/#@bViewVariables)
 
