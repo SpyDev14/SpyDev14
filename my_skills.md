@@ -1,7 +1,7 @@
 # Hard-skills (Technical Expertise)
 ### Языки программирования & Фреймворки
 - **Python**: Django, Django Rest Framework, Pydantic, TeleBOT (Telegram-боты)
-- **C#**: .NET 8, WinForms
+- **C#**: .NET 8+, WinForms
 
 ### Работа с данными & Базы данных
 - **Реляционные базы данных**:
@@ -10,7 +10,7 @@
 - **ORM**:
 	- Django ORM
 - **Текстовые форматы данных**: (и где использовал)
-	- **JSON** (REST API, конфиги, сериализация/десериализация данных)
+	- **JSON** (API, конфиги, сериализация/десериализация данных)
 	- **YAML** (прототипы Space Station 14 ([очень простой пример](https://docs.spacestation14.com/en/ss14-by-example/adding-a-simple-bikehorn.html#how-do-i-make-an-entity-and-give-it-components)))
 	- **TOML** (конфиги)
 
@@ -28,6 +28,7 @@
 ### Технологии
 - **Общие**:
 	- Регулярные выражения (regex; работа с текстом)
+	- Асинхронное программирование Async/Await (базовый уровень)
 - **Web-backend**:
 	- Аутентификация/Авторизация на JWT-токенах
 	- WebSocket-ы
@@ -38,7 +39,7 @@
 
 ### Инструменты разработки & Окружение
 - **Version Control**: GIT, [GitHub](https://github.com/SpyDev14)
-- **API Development & Testing**: Postman
+- **API Development & Тестирование**: Postman
 - **IDEs**: Visual Studio (C#), Visual Studio Code (Python & PowerShell)
 - **Автоматизация и Консоль**: PowerShell (аналог bash; пишу свои скрипты для работы; часто пользуюсь при работе в консоли)
 
@@ -54,9 +55,9 @@
 - **Python**: django-unittest, pytest
 
 ### Дополнительно
-- **Game Development**: Unity (начинающий), Unity Events
-- **Open Source Contribution**: Принимал участие (когда было время) в разработке Space Station 14 ([Ru Corvax Wiki](https://station14.ru/wiki/Заглавная_страница), [Official site](https://spacestation14.com/))
-- **Languages**: Английский язык (A2, пред-пороговый уровень)
+- **Game Dev**: Unity (начинающий), Unity Events
+- **Open Source**: Принимал участие (когда было время) в разработке Space Station 14 ([Ru Corvax Wiki](https://station14.ru/wiki/Заглавная_страница), [Official site](https://spacestation14.com/))
+- **Иностранные языки**: Английский язык (A2, пред-пороговый уровень)
 
 # Soft-skills (Interpersonal & Cognitive Abilities)
 ### Коммуникация & Взаимодействие
@@ -67,10 +68,10 @@
 - Учитываю бизнес-интересы
 
 ### Когнитивные навыки
-- Любопытный
 - Легко и быстро (обычно) осваиваю новое
+- Активно пользуюсь нейросетями (для изучения нового / код-ревью / работы в целом)
+- Любопытный
 - Креативный: генерирую много новых идей
-- Активно пользуюсь нейросетями (для изучения нового / анализа / код-ревью / общей оптимизации время-затрат)
 - Эмоционально устойчивый
 - Оптимистичный
 - Амбициозный
