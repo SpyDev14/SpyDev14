@@ -1,4 +1,4 @@
-aka `Video Kompany`, `SpyDev`, `Spy`, etc.
+aka `Video Kompany`, `SpyDev14`, `Spy`, etc.
 
 [Мои навыки ->](https://github.com/SpyDev14/SpyDev14/blob/main/my_skills.md)
 
