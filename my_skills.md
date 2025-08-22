@@ -156,7 +156,7 @@ $ Что это за проекты, краткая информация на 2-
 ## TaskMnagerAPI
 ## BookMarketCourse
 ## SpaceForum
-## TakeIt?
+## TakeIt
 ## PrototypeAssembler
 ## ShapeAreaCalculator
 ## WordCountFinder
