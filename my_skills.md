@@ -92,7 +92,7 @@ flowchart TD
 - **Python**: django-unittest, pytest
 
 ### Дополнительно
-- **Game Dev**: Unity (начинающий), Unity Events <br>`# с UE мало работал, да и с самим Unity в принципе`
+- **Game Dev**: Unity (начинающий), Unity Events `# с UE мало работал, да и с самим Unity в принципе`
 - **Open Source**: Принимал участие (когда было время) в разработке Space Station 14 ([Ru Corvax Wiki](https://station14.ru/wiki/Заглавная_страница), [Official site](https://spacestation14.com/))
 - **Иностранные языки**: Английский язык (A2, пред-пороговый уровень)
 - **Юридические аспекты**: Знаю особенности лицензий ПО, в частности использование открытого (Open Source) ПО в проприетарных (коммерческих) проектах.
