@@ -52,7 +52,7 @@ aka `Video Kompany`, `SpyDev14`, `Spy`, etc.
 <hr>
 </details>
 
-- ##### Ещё не принятые PR-ы
+##### Ещё не принятые PR-ы
 1. [Улучшение UI консоли заказов (совместно с @c4llv07e)](https://github.com/space-wizards/space-station-14/pull/34052)
 
 #### Nuclear 14
