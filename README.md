@@ -33,7 +33,7 @@ aka `Video Kompany`, `SpyDev14`, `Spy`, etc.
 2. [Исправил серьёзный косяк с адаптивом (к измененик размера) окна ускорителя частиц](https://github.com/space-wizards/space-station-14/pull/34037)
 3. [Исправил адаптив окна консоли связи](https://github.com/space-wizards/space-station-14/pull/33655)
 4. [Исправил локализацию в окне консоли шаттла](https://github.com/space-wizards/space-station-14/pull/33651)
-5. [Улучшил адаптив окна объекта с зарядом (с компонентом заряда)](https://github.com/space-wizards/space-station-14/pull/34037)
+5. [Улучшил адаптив окна объекта с зарядом (с компонентом заряда)](https://github.com/space-wizards/space-station-14/pull/33656/)
 - Ps: Некоторые PR-ы были переоткрыты людьми из сообщества по моему согласию, т.к мои не успели рассмотреть и закрыли из-за особых обстоятельств, ...
 <details>
   <summary>Подробности по ситуации (у меня всё ещё припекает от несправедливости, поэтому вы видите это здесь)</summary>
