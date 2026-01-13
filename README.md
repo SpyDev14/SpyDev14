@@ -25,11 +25,11 @@ aka `Video Kompany`, `SpyDev14`, `_b.VV();`, etc.
 - Discrod: `spy.3082`
 - Телеграм: [@bViewVariables](https://web.telegram.org/k/#@bViewVariables)
 
-## Мои работы
+# Мои работы
 Я бы их тут расписал, но вы можете просто посмотреть на них в репозитории. В основном я делал их в качестве хобби, или из интереса (ConsoleGame), так что многие из них остались недоделанными.
 
 ## Мои PR-ы
-#### Space Station 14
+### Space Station 14
 1. [Улучшение UI меню факса (pr на основе моей работы)](https://github.com/space-wizards/space-station-14/pull/33825)
 2. [Исправил серьёзный косяк с адаптивом (к измененик размера) окна ускорителя частиц](https://github.com/space-wizards/space-station-14/pull/34037)
 3. [Исправил адаптив окна консоли связи](https://github.com/space-wizards/space-station-14/pull/33655)
@@ -52,14 +52,14 @@ aka `Video Kompany`, `SpyDev14`, `_b.VV();`, etc.
 <hr>
 </details>
 
-##### Ещё не принятые PR-ы
+#### Ещё не принятые PR-ы
 1. [Улучшение UI консоли заказов (совместно с @c4llv07e)](https://github.com/space-wizards/space-station-14/pull/34052)
 
-#### Nuclear 14
-1. [Значительное улучшение локализации названий и описаний внутриигровых ролей](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (RU форк (билд))
+### Nuclear 14
+1. [Значительное улучшение локализации названий и описаний внутриигровых ролей](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (RU форк)
 2. [Добавил множество новых рецептов одежды, оружия, щитов и прочего для ранее неиспользуемых, но повсеместно встречающихся, верстаков (бронный, оружейный, и т.д), добавил новый материал - кожу, способы её получения, возможность рвать одежду на кожу.](https://github.com/Vault-Overseers/nuclear-14/pull/520)
 
-#### Crystall Edge
+### Crystall Edge
 1. [Добавил 'arrow' в названия наконечников стрел (по запросу)](https://github.com/crystallpunk-14/crystall-punk-14/pull/964)
 
 
