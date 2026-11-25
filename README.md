@@ -32,11 +32,11 @@ PPs: ))))), хотя обычно мне это не с кем обсуждат�
 1. Пакет для Python [`django-admin-registrar`](https://github.com/SpyDev14/django-admin-registrar): Автоматический регистратор моделей в админ-панели Django с возможностью указать админ-классы по умолчанию
 
 ## Мои лучшие pet-проекты
-##### Django-стек
+#### Django-стек
 1. [Django-проект с новой архитектурой папок на Хакатон ТСПК 2026 г.](https://github.com/SpyDev14/AutoShop)
 2. [Моя реализация](https://github.com/SpyDev14/TLTConvectorTraining) сайта ["ТЛТ Конвектор"](https://tlt-konvektor.ru/?ysclid=mwwb6a0h3n208366758)
 
-##### FastAPI-стек
+#### FastAPI-стек
 1. 
 
 ## Мой вклад в Open Source
