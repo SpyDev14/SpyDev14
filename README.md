@@ -1,4 +1,4 @@
-aka `Vidео Kоmpаnу`, `SpyDev14`, `_b.VV();`, etc.
+aka `SpyDev14`, `_b.VV();`, etc.
 
 # Обо мне
 Привет! Меня зовут Влад, я студент колледжа на четвёртом курсе по IT направлению. В свободное от работы и учёбы время люблю писать программы, изучать программирование и компьютерные науки. Люблю разбираться как работает какая-то "магия", будь то устройство Python, сети / прочий IO, или процессор. Также иногда принимаю участие в разработке билдов Space Station 14.
@@ -29,10 +29,11 @@ PPs: ))))), хотя обычно мне это не с кем обсуждат�
 - Рабочая почта: vlad.buklovsky@gmail.com
 - Discrod: `spy.3082`
 
+## Мои библиотеки
+1. Пакет для Python [`django-admin-registrar`](https://github.com/SpyDev14/django-admin-registrar): Автоматический регистратор моделей в админ-панели Django с возможностью указать админ-классы по умолчанию
+
 ## Мои лучшие pet-проекты
-Django-стек:
-- [`django-admin-registrar`](https://github.com/SpyDev14/django-admin-registrar): Автоматический регистратор моделей отдельного приложения в админ-панели Django с возможностью указать админ-классы по умолчанию
-- 
+1. 
 
 ## Мой вклад в Open Source
 ### Space Station 14
@@ -44,11 +45,15 @@ Django-стек:
 6. [Улучшил адаптив окна объекта с зарядом (с компонентом заряда)](https://github.com/space-wizards/space-station-14/pull/34036)
 
 ### Nuclear 14
-1. [Значительное улучшение локализации названий и описаний внутриигровых ролей](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (RU форк)
+1. [Значительное улучшение локализации названий и описаний внутриигровых ролей](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (RU форк; первый pull-request)
 2. [Добавил множество новых рецептов одежды, оружия, щитов и прочего для ранее неиспользуемых, но повсеместно встречающихся, верстаков (бронный, оружейный, и т.д), добавил новый материал - кожу, способы её получения, возможность рвать одежду на кожу и т.д.](https://github.com/Vault-Overseers/nuclear-14/pull/520)
 
-### Crystall Edge
-1. [Добавил 'arrow' в названия наконечников стрел (по запросу)](https://github.com/crystallpunk-14/crystall-punk-14/pull/964)
+### Metro 14
+1. [Добавлены базовые тайлы](https://github.com/Metro-Observers/metro-14/pull/4)
+2. [Добавлена куча новых тайлов](https://github.com/Metro-Observers/metro-14/pull/20)
+3. [Звук начала раунда заменён на фрагмент главной темы Metro 2033 LL](https://github.com/Metro-Observers/metro-14/pull/9)
+4. [Заставки главного экрана заменены на арты по Metro 2033](https://github.com/Metro-Observers/metro-14/pull/7)
+5. [Добавлен генератор планеты `M14Underground` (карта метро)](https://github.com/Metro-Observers/metro-14/pull/8)
 
 
 <!---
