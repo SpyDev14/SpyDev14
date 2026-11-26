@@ -22,6 +22,7 @@ aka `SpyDev14`, `_b.VV();`, etc.
 ### Python/Django-стек
 1. [Django-проект с новой архитектурой папок на Хакатон ТСПК 2026 г.](https://github.com/SpyDev14/AutoShop)
 2. [Моя реализация](https://github.com/SpyDev14/TLTConvectorTraining) сайта ["ТЛТ Конвектор"](https://tlt-konvektor.ru/?ysclid=mwwb6a0h3n208366758)
+3. [Сервис управления задачами сотрудников на Django REST Framework](https://github.com/SpyDev14/TaskManagerAPI)
 ### Python/FastAPI-стек
 1. [Бекенд для обработки оплаты по вебхуку; админским и пользовательским API](https://github.com/SpyDev14/FAPIDemo)
 ### Другое
