@@ -15,29 +15,32 @@ aka `SpyDev14`, `_b.VV();`, etc.
 - Телеграм (приоритетный способ): [@bViewVariables](https://web.telegram.org/k/#@bViewVariables)
 - Discrod: `spy.3082`
 
-## Мои библиотеки
-1. Пакет для Python [`django-admin-registrar`](https://github.com/SpyDev14/django-admin-registrar): Автоматический регистратор моделей в админ-панели Django с возможностью указать админ-классы по умолчанию
+## Мои библиотеки (Python)
+1. [`django-admin-registrar`](https://github.com/SpyDev14/django-admin-registrar): Автоматический регистратор моделей в админ-панели Django с возможностью указать админ-классы по умолчанию
 
 ## Мои лучшие pet-проекты
-#### Django-стек
+### Python/Django-стек
 1. [Django-проект с новой архитектурой папок на Хакатон ТСПК 2026 г.](https://github.com/SpyDev14/AutoShop)
 2. [Моя реализация](https://github.com/SpyDev14/TLTConvectorTraining) сайта ["ТЛТ Конвектор"](https://tlt-konvektor.ru/?ysclid=mwwb6a0h3n208366758)
-
-#### FastAPI-стек
-1. 
+### Python/FastAPI-стек
+1. [Бекенд для обработки оплаты по вебхуку; админским и пользовательским API](https://github.com/SpyDev14/FAPIDemo)
+### Другое
+1. [Веб-сервер на чистом C под Linux](https://github.com/SpyDev14/crazy-web-server)
+2. [Игра-бродилка с псевдо-трёхмерной графикой на чистом C#](https://github.com/SpyDev14/TheWalkingGame)
+3. [Консольный тетрис на Rust](https://github.com/SpyDev14/tetris-rust)
 
 ## Мой вклад в Open Source
 ### Space Station 14
 1. [Улучшение UI консоли заказов (совместно с @c4llv07e)](https://github.com/space-wizards/space-station-14/pull/34052)
 2. [Улучшение UI меню факса (pr на основе моей работы)](https://github.com/space-wizards/space-station-14/pull/33825)
-3. [Исправил серьёзный косяк с адаптивом (к измененик размера) окна ускорителя частиц](https://github.com/space-wizards/space-station-14/pull/34037)
+3. [Исправил адаптив окна ускорителя частиц](https://github.com/space-wizards/space-station-14/pull/34037)
 4. [Исправил адаптив окна консоли связи](https://github.com/space-wizards/space-station-14/pull/33655)
 5. [Исправил локализацию в окне консоли шаттла](https://github.com/space-wizards/space-station-14/pull/33651)
-6. [Улучшил адаптив окна объекта с зарядом (с компонентом заряда)](https://github.com/space-wizards/space-station-14/pull/34036)
+6. [Улучшил адаптив окна заряжаемого объекта](https://github.com/space-wizards/space-station-14/pull/34036)
 
 ### Nuclear 14
-1. [Значительное улучшение локализации названий и описаний внутриигровых ролей](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388) (RU форк; первый pull-request)
-2. [Добавил множество новых рецептов одежды, оружия, щитов и прочего для ранее неиспользуемых, но повсеместно встречающихся, верстаков (бронный, оружейный, и т.д), добавил новый материал - кожу, способы её получения, возможность рвать одежду на кожу и т.д.](https://github.com/Vault-Overseers/nuclear-14/pull/520)
+1. [Значительное улучшение локализации названий и описаний внутриигровых ролей](https://github.com/Forge-Station/nuclear-14/pull/87) (RU форк; первый pull-request)
+2. [Добавил множество новых рецептов одежды, оружия, щитов и прочего для не использующихся верстаков (бронный, оружейный, и т.д); добавил новый материал - кожу, способы её получения; возможность рвать одежду на ткань и кожу, а также многое другое](https://github.com/Vault-Overseers/nuclear-14/pull/520)
 
 ### Metro 14
 1. [Добавлены базовые тайлы](https://github.com/Metro-Observers/metro-14/pull/4)
