@@ -25,9 +25,9 @@ aka `SpyDev14`, `_b.VV();`, etc.
 ### Python/FastAPI-стек
 1. [Бекенд для обработки оплаты по вебхуку; админским и пользовательским API](https://github.com/SpyDev14/FAPIDemo)
 ### Другое
-1. [Веб-сервер на чистом C под Linux](https://github.com/SpyDev14/crazy-web-server)
-2. [Игра-бродилка с псевдо-трёхмерной графикой на чистом C#](https://github.com/SpyDev14/TheWalkingGame)
-3. [Консольный тетрис на Rust](https://github.com/SpyDev14/tetris-rust)
+1. [Игра-бродилка с псевдо-трёхмерной графикой на чистом C#](https://github.com/SpyDev14/TheWalkingGame)
+2. [Консольный тетрис на Rust](https://github.com/SpyDev14/tetris-rust)
+3. [Веб-сервер на чистом C под Linux](https://github.com/SpyDev14/crazy-web-server)
 
 ## Мой вклад в Open Source
 ### Space Station 14
